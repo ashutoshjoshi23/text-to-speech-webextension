@@ -1,0 +1,15 @@
+body {
+    background-color: #f0f2f5;
+}
+
+#reader-box {
+    width: 100%;
+    max-width: 350px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+h4 {
+    color: #333;
+    margin-bottom: 15px;
+}
